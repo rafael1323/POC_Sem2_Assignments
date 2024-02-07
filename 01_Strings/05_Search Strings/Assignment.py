@@ -1,6 +1,6 @@
 text = input("Enter some text: ")
 
-result = text.find("the")
+res ult = text.find("the")
 
 if result == -1 :
     print("the word the is in not in the string")
